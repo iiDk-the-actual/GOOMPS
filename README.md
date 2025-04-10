@@ -2,7 +2,7 @@
 > "Get out of my Personal Space."
 A mod for Gorilla Tag that hides nearby players
 
-Full credits go to the original mod [GOOMPS](https://github.com/BzzzThe18th/GOOMPS) and the original mod creator [@BzzzThe18th](https://github.com/BzzzThe18th).
+Full credits go to the original mod [GOOMPS](https://github.com/BzzzThe18th/GOOMPS) and the original mod creator [@BzzzThe18th](https://github.com/BzzzThe18th), all I am doing is fixing the mod to work in later versions of Gorilla Tag.
 
 This mod is fully legal and complies with the rules of Gorilla Tag.
 
