@@ -23,8 +23,8 @@ namespace GOOMPS
 
 			_rig.mainSkin.enabled = _visible;
 			_rig.muted = Cfg.mute.Value && !_visible;
-			_rig.transform.Find("RigAnchor/rig/body/gorillachest").gameObject.SetActive(_visible);
-			_rig.transform.Find("RigAnchor/rig/body/head/gorillaface").gameObject.SetActive(_visible);
+			_rig.transform.Find("rig/body_pivot/gorillachest").gameObject.SetActive(_visible);
+			_rig.transform.Find("rig/head/gorillaface").gameObject.SetActive(_visible);
 		}
 
 		private void OnTriggerEnter(Collider coll)

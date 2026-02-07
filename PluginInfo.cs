@@ -4,8 +4,8 @@ namespace GOOMPS
 {
 	public class PluginInfo
 	{
-		public const string GUID = "com.goldentrophyxbuzz.gorillatag.goomps";
+		public const string GUID = "com.goldentrophy.gorillatag.goomps";
 		public const string Name = "GOOMPS";
-		public const string Version = "1.1.0";
+		public const string Version = "1.1.1";
 	}
 }
